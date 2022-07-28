@@ -1,0 +1,11 @@
+/* Main info box holds all the different pieces of content on the site */
+/* Every other piece should be put inside a div called 'info-container'*/
+.main-info-container {
+  display: flex;
+  width: 100%;
+  flex-direction: column;
+}
+
+.info-container {
+  padding: 15px 250px;
+}

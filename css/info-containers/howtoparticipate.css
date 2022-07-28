@@ -1,0 +1,70 @@
+
+#howToParticipateNTelegram {
+    display: flex;
+    justify-content: space-between;
+}
+#howToParticipateNTelegram h1{
+    color: rgb(220, 192, 34);
+    font-weight: bold;
+    height: 60px;
+    font-family: 'Changa', sans-serif;
+    font-size: 50px;
+    padding: 0;
+}
+#howToParticipateNTelegram button{
+    padding: 0px 20px;
+    outline: none;
+    border-style: none;
+    background-color: rgb(69, 69, 69);
+    color: white;
+    font-size: larger;
+    font-weight: bold;
+    border-radius: 6px;
+}
+#howToParticipateNTelegram button:hover {
+    cursor: pointer;
+}
+#participationInformation {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+}
+.infoletNumber {
+    position: relative;
+}
+
+.infoletNumber h1{
+    font-size: 90px;
+    z-index: 0;
+    color: rgb(220, 192, 34);
+}
+.infoletNumber h3{
+    position: absolute;
+    font-weight: 800;
+    font-size: 25px;
+    font-family: 'Changa', sans-serif;
+    bottom: 6%;
+    left: 6%;
+    z-index: 1;
+}
+.participateInfo h5 {
+    padding: 0 10px;
+}
+#howtoparticipateFinal {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 75px;
+}
+#howtoparticipateFinal div {
+    height: 1px;
+    width: 100%;
+    background-color: black;
+}
+#howtoparticipateFinal h1 {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: yellow;
+}
+
+
