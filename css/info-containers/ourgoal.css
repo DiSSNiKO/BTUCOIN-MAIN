@@ -1,0 +1,48 @@
+.goalInfoLeft {
+    width: 50%;
+}
+
+.goalInfoRight {
+    width: 50%;
+    margin-top: 10%;
+    margin-bottom: 10%;
+
+    margin-left: auto;
+}
+
+.goalInfoLeft p {
+    font-size: medium;
+}
+
+
+.goalInfoLeft h2 {
+    font-family: 'Changa', sans-serif;
+    font-weight: 700;
+}
+
+
+.goalInfoRight h2 {
+    font-family: 'Changa', sans-serif;
+    font-weight: 700;
+    text-align: end;
+}
+
+.goalInfoRight p {
+    font-size: medium;
+}
+
+.ourGoalCont button {
+    padding: 10px 10px;
+    outline: none;
+    border-style: none;
+    background-color: rgb(231, 25, 94);
+    color: black;
+    font-family: 'Changa', sans-serif;
+    font-weight: bold;
+    border-radius: 6px;
+    margin-top: 2%;
+}
+
+.ourGoalCont button:hover {
+    cursor: pointer;
+}
