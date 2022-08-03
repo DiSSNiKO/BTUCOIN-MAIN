@@ -1,0 +1,90 @@
+#tokenomicsId {
+    position: relative;
+}
+
+.tokenomicsLogoImg {
+    position: absolute;
+    height: 175px;
+    width: auto;
+    left: calc(50% - 63.5px);
+    top: 35%;
+}
+
+.tokenomicsImg {
+    height: 200px;
+    width: 100%;
+    border-radius: 20px;
+}
+
+.tokenomicsImgAndText {
+    position: relative;
+}
+
+#tokenomicsLabel {
+    position: absolute;
+    font-size: 45px;
+    font-family: sans-serif;
+    color: white;
+    top: 10%;
+    left: 3%;
+}
+
+
+#statisticsCont {
+    margin-top: 100px;
+}
+
+#statPercentages {
+    display: flex;
+}
+
+#statPercentages h2 {
+    width: 13%;
+    font-family: 'Changa', sans-serif;
+    font-weight: bold;
+    margin-top: 5px;
+}
+
+#statLabels {
+    display: flex;
+}
+
+#statLabels h2 {
+    width: 13%;
+    font-size: large;
+    font-weight: 700;
+}
+
+#statDecor {
+    display: flex;
+}
+
+.statDecorNotLast {
+    width: 13%;
+    height: 30px;
+    margin-top: 5px;
+}
+
+#statLastDecor {
+    display: block;
+    margin-top: 5px;
+    width: 22%;
+    background-color: hotpink;
+    height: 30px;
+}
+
+#buttonLikeThings {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+}
+
+#buttonLikeThings div {
+    font-size: x-large;
+    font-family: 'Nunito', sans-serif;
+    color: white;
+    border-radius: 12px;
+    padding: 10px;
+    background-color: rgb(58, 58, 58);
+    font-weight: 700;
+}
